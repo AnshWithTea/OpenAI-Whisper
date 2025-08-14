@@ -5,7 +5,7 @@ This project uses OpenAI’s Whisper model to automatically transcribe audio fil
 It is designed to run seamlessly on Google Colab, allowing you to mount audio files from Google Drive and process them without time limits.
 
     
-Key Features
+KEY FEATURES
 
 🎙 Supports Any Length Audio — No 30-second restriction; transcribes entire MP3/WAV files in one go.
 
@@ -18,7 +18,7 @@ Key Features
 ⚡ Multiple Model Sizes — Choose between tiny, small, medium, or turbo for speed or accuracy. 
 
  		 
-Tech Stack	
+TECH STACK
 
 Python 3
 
@@ -29,7 +29,8 @@ OpenAI Whisper library
 Google Drive Integration
 
 
-Use Cases
+
+USE CASES
 
 Transcribing podcasts, interviews, and lectures
 

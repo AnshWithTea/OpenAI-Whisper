@@ -72,3 +72,18 @@ You can use the `whisper` command-line interface to easily transcribe any audio 
 **Basic Transcription:**
 ```bash
 whisper "my_audio_file.mp3"
+```
+**Detect Language and Transcribe:**
+```bash
+whisper "marathi_speech.wav" --language Marathi
+```
+**Translate to English:**
+```bash
+whisper "spanish_audio.mp3" --task translate
+```
+
+---
+
+## 6. License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
